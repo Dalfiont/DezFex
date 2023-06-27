@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>School Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<iframe id="video" src="https://www.youtube.com/watch?v=9Frow8HMh74"></iframe>
+
+<div class="container">
+    <h2 class="page-header" id="campus_life">Campus Life</h2>
+    <center>
+        <div class="travel_mainDiv"></div>
+        <img src="church.jpg">
+        <h4 class="text-capitalize"><kbd>School Church</kbd></h4>
+        <hr>
+        <h5 class="text-success text-capitalize">Was established in 1978</h5>
+        <p class="text-muted"> The school church is where students can go to learn about their faith and practice their religion.It can 
+            also be a source of support for students who are going through difficult times. They can provide a safe and supportive 
+            environment where students can talk about their problems and get help.</p>
+      </center>
+</div>
+
+<br><br>
+
+    <center>
+        <div class="travel_mainDiv"></div>
+        <img src="st2.jpg">
+        <h4 class="text-capitalize"><kbd>School Library</kbd></h4>
+        <hr>
+        <h5 class="text-success text-capitalize">Was built in 1980</h5>
+        <p class="text-muted">The library is where students can go to access information and resources. They can be a physical building 
+            or a virtual space, and they can offer a variety of services.For example : Borrowing books, magazines, and other materials,
+            conducting research,getting help with homework and finding information on a variety of topics.</p>
+      </center>
+</div>
+
+<center>
+    <div class="travel_mainDiv"></div>
+    <img src="st3.jpg">
+    <h4 class="text-capitalize"><kbd>School Auditorium</kbd></h4>
+    <hr>
+    <h5 class="text-success text-capitalize">Was built in 1982</h5>
+    <p class="text-muted">The auditorium is designed for school gatherings, presentations, plays and graduation ceremonies.They can also
+         be used for other events, such as conventions and class voting.It is vital role in the school. They provide a place for people
+          to gather, learn, and be entertained.</p>
+  </center>
+
+</body>
+
+</html>
